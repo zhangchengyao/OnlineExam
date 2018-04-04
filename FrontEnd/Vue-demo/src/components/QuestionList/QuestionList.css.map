@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;GAEG;AAoBH;;GAEG;ACrBH,OAAQ;EACN,KAAK,EDqCmB,OAAO",
+"sources": ["../../assets/scss/_variables.scss","QuestionList.scss"],
+"names": [],
+"file": "QuestionList.css"
+}

@@ -1,0 +1,30 @@
+/*
+ * Fonts
+ */
+/*
+ * Colors
+ */
+ .exam-question{position:relative;}
+.mark-button {
+  position:absolute;top:20px;left:8px;
+  font-size: 24px;
+  color: #FACB4F; }
+
+.question {
+  margin-left: 40px; padding-top:20px;}
+
+.title {
+  margin-bottom: 30px; }
+
+.exam-question /deep/ .el-radio-group {
+  display: block; }
+  .exam-question /deep/ .el-radio-group .el-radio {
+    display: block;
+    margin: 20px 0; }
+.exam-question /deep/ .el-checkbox-group {
+  display: block; }
+  .exam-question /deep/ .el-checkbox-group .el-checkbox {
+    display: block;
+    margin: 20px 0; }
+
+/*# sourceMappingURL=ExamQuestion.css.map */

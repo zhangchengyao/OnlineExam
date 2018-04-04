@@ -1,0 +1,23 @@
+/*
+ * Fonts
+ */
+/*
+ * Colors
+ */
+.logo {
+  padding: 20px 40px;
+  background-color: #ABDAF0; }
+  .logo .title {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    color: #FFF; }
+    .logo .title h1 {
+      font-size: 18px;
+      font-weight: 400;
+      letter-spacing: 5px; }
+    .logo .title h2 {
+      font-size: 12px;
+      opacity: 0.7; }
+
+/*# sourceMappingURL=Logo.css.map */

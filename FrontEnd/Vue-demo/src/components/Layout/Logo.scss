@@ -1,0 +1,24 @@
+@import "../../assets/scss/variables";
+//@import "../../assets/scss/base";
+
+.logo {
+  padding: 20px 40px;
+  background-color: $blue-color-light;
+
+  .title {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    color: $white-color;
+    h1 {
+      font-size: 18px;
+      font-weight: 400;
+      letter-spacing: 5px;
+    }
+    h2 {
+      font-size: 12px;
+      opacity: 0.7;
+    }
+  }
+}
+

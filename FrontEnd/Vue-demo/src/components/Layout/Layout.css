@@ -1,0 +1,58 @@
+/*
+ * Fonts
+ */
+/*
+ * Colors
+ */
+.layout {
+  position: fixed;
+  width: 100%;
+  height: 100%; }
+
+.logo {
+  z-index: 3;
+  position: absolute;
+  width: 220px;
+  height: 80px; }
+
+.nav-bar {
+  z-index: 2;
+  position: absolute;
+  width: 220px;
+  margin-top: 80px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: auto; }
+
+.header {
+  z-index: 1;
+  position: absolute;
+  height: 80px;
+  margin-left: 220px;
+  top: 0;
+  left: 0;
+  right: 0; }
+
+main {
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 220px;
+  padding: 30px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: auto;
+  background-color: #F9F8F5; }
+  main.full {
+    margin-left: 0; }
+
+main > div {
+  background-color: #FFF; }
+
+.logo, .nav-bar, .header {
+  box-shadow: 0 0 0.5px 0 #b3b3b3; }
+
+/*# sourceMappingURL=Layout.css.map */

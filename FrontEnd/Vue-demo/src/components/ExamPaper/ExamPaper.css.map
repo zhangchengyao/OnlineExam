@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;GAEG;AAoBH;;GAEG;ACtBH,YAAa;EACX,SAAS,EAAE,IAAI;EACf,KAAK,EDuCmB,OAAO;;ACpCjC,SAAU;EAER,WAAW,EAAE,IAAI;;AAGnB,MAAO;EAEL,aAAa,EAAE,IAAI;;AAMjB,qCAAgB;EACd,OAAO,EAAE,KAAK;EACd,+CAAU;IACR,OAAO,EAAE,KAAK;IACd,MAAM,EAAE,MAAM;AAIlB,wCAAmB;EACjB,OAAO,EAAE,KAAK;EACd,qDAAa;IACX,OAAO,EAAE,KAAK;IACd,MAAM,EAAE,MAAM",
+"sources": ["../../assets/scss/_variables.scss","ExamQuestion.scss"],
+"names": [],
+"file": "ExamPaper.css"
+}

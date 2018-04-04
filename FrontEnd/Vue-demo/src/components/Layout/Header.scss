@@ -1,0 +1,28 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixin";
+
+.header {
+  //width: 100%;
+  padding: 30px 30px;
+  background-color: $blue-color;
+  @include clear-fix();
+}
+
+.left {
+  float: left;
+  color: $white-color;
+}
+
+.right {
+  float: right;
+}
+
+.sign-out {
+  color: white;
+  font-size: 14px;
+  @include transition(all .5s);
+  &:hover {
+    opacity: 0.8;
+    @include transition(all .5s);
+  }
+}

@@ -1,0 +1,25 @@
+/*
+ * Fonts
+ */
+/*
+ * Colors
+ */
+.nav-bar {
+  background-color: #FFF; }
+
+.nav-bar /deep/ .el-submenu .el-menu {
+  background-color: transparent; }
+.nav-bar /deep/ .el-submenu__title:hover, .nav-bar /deep/ .el-menu-item.is-active, .nav-bar /deep/ .el-menu-item:hover, .nav-bar /deep/ .el-submenu .el-menu-item:hover {
+  background-color: #f0f8fc; }
+.nav-bar /deep/ .el-menu-item.is-active {
+  border-right: solid 4px #50AAD6; }
+.nav-bar /deep/ .el-submenu__title .img-wrapper {
+  display: inline-block;
+  width: 40px; }
+  .nav-bar /deep/ .el-submenu__title .img-wrapper img {
+    display: block;
+    margin: 0 auto; }
+.nav-bar /deep/ .el-menu-item {
+  padding-left: 80px !important; }
+
+/*# sourceMappingURL=NavBar.css.map */

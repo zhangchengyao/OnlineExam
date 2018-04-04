@@ -1,0 +1,47 @@
+/*
+ * Fonts
+ */
+$font-weight-thin: 	      100;
+$font-weight-ultra-light: 200;
+$font-weight-light:       300;
+$font-weight-normal:      400;
+$font-weight-medium:      500;
+$font-weight-semi-bold:   600;
+$font-weight-bold:        700;
+$font-weight-ultra-bold:  800;
+$font-weight-black:       900;
+
+$base-font-family:   "Pingfang SC", "Open Sans", "Lantinghei SC", "Microsoft Yahei Light", "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+$base-font-size:     18px;
+$base-font-weight:   $font-weight-ultra-light;
+$small-font-size:    14px;
+$base-line-height:   24px;
+$theme-font-family:  "MFYueHei";
+$theme-font-family-normal: 'Avenir Book';
+$slogan-font-family: 'Permanent Marker Regular';
+
+/*
+ * Colors
+ */
+$white-color:             #FFF;
+
+$gray-color-white:        #F9F9F9;
+$gray-color-ultra-light:  #EEEEEE;
+$gray-color-light:        #DDDDDD;
+$gray-color:              #B3B3B3;
+$gray-color-dark:         #808080;
+$gray-color-ultra-dark:   #646464;
+
+$shadow-color:            #b3b3b3;
+
+$beige-color:             #F9F8F5;
+$blue-color-light:        #ABDAF0;
+$blue-color:              #86C5E2;
+$blue-color-dark:         #50AAD6;
+
+$red-color:               #E25D58;
+$orange-color:            #FD9C4B;
+$yellow-color:            #FACB4F;
+$green-color:             #10CBCC;
+$pink-color:              #F6698C;
+$purple-color:            #AE70D4;

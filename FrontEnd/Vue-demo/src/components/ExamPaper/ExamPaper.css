@@ -1,0 +1,35 @@
+/*
+ * Fonts
+ */
+/*
+ * Colors
+ */
+ .exam-question{position:relative;}
+.mark-button {
+  position:absolute;top:20px;left:8px;
+  font-size: 24px;
+  color: #FACB4F; }
+
+.exam-title{padding:10px 0;text-align: center;font-size:18px;}
+.exam-mark{padding:10px;text-align: center;font-size:16px;}
+
+.question {
+  margin-left: 40px; padding-top:20px;}
+
+.title {
+  margin-bottom: 10px; }
+  .true-answer{color:#13ce66;}
+.true-answer.false{color:#ff4949;}
+
+
+.exam-question /deep/ .el-radio-group {
+  display: block; }
+  .exam-question /deep/ .el-radio-group .el-radio {
+    display: block;
+    margin: 20px 0; }
+.exam-question /deep/ .el-checkbox-group {
+  display: block; }
+  .exam-question /deep/ .el-checkbox-group .el-checkbox {
+    display: block;
+    margin: 20px 0; }
+

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;GAEG;AAoBH;;GAEG;ACuDH;;GAEG;AC9EH,KAAM;EACJ,KAAK,EAAE,KAAK;EAEZ,MAAM,EAAE,WAAW;EACnB,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,iBAA0B;EAEtC,UAAK;IACH,aAAa,EAAE,IAAI;IACnB,KAAK,EF2BiB,OAAO;IE1B7B,SAAS,EAAE,IAAI;IACf,WAAW,EAAE,GAAG;EAGlB,eAAU;IACR,KAAK,EFaiB,OAAO;IEZ7B,SAAS,EAAE,IAAI;IACf,eAAe,EAAE,IAAI;IACrB,qBAAQ;MACN,KAAK,EFiBe,OAAO",
+"sources": ["../../assets/scss/_variables.scss","../../assets/scss/_mixin.scss","RegisterStudentForm.scss"],
+"names": [],
+"file": "RegisterStudentForm.css"
+}

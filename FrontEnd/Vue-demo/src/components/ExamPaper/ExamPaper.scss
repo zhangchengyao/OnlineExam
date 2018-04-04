@@ -1,0 +1,37 @@
+@import "../../assets/scss/variables";
+
+.mark-button {
+  font-size: 24px;
+  color: $yellow-color;
+}
+
+.question {
+
+  margin-left: 40px;
+}
+
+.title {
+
+  margin-bottom: 30px;
+}
+
+.exam-question {
+
+  /deep/ {
+    .el-radio-group {
+      display: block;
+      .el-radio {
+        display: block;
+        margin: 20px 0;
+      }
+    }
+
+    .el-checkbox-group {
+      display: block;
+      .el-checkbox {
+        display: block;
+        margin: 20px 0;
+      }
+    }
+  }
+}

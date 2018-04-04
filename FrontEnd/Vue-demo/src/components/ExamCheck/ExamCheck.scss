@@ -1,0 +1,21 @@
+@import "../../assets/scss/variables";
+
+.mark-button {
+  font-size: 24px;
+  color: $yellow-color;
+}
+
+ul {
+  font-size: 0;
+}
+
+li {
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  height: 24px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: $gray-color-ultra-dark;
+
+}
